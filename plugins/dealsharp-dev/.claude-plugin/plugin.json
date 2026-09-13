@@ -1,0 +1,19 @@
+{
+  "name": "dealsharp-dev",
+  "version": "1.0.0",
+  "description": "DealSharp development workspace.",
+  "author": {
+    "name": "DealSharp",
+    "email": "ekjosbakken@dealsharp.ai",
+    "url": "https://www.dealsharp.ai"
+  },
+  "homepage": "https://github.com/DealSharp/claude-plugins/tree/main/plugins/dealsharp-dev",
+  "repository": "https://github.com/DealSharp/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "dealsharp",
+    "negotiation",
+    "legal",
+    "mcp"
+  ]
+}

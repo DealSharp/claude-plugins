@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dealsharp-dev": {
+      "type": "http",
+      "url": "https://dev.dealsharp.ai/mcp"
+    }
+  }
+}
