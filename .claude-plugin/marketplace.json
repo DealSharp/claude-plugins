@@ -1,0 +1,22 @@
+{
+  "name": "dealsharp",
+  "owner": {
+    "name": "DealSharp",
+    "email": "ekjosbakken@dealsharp.ai"
+  },
+  "plugins": [
+    {
+      "name": "dealsharp",
+      "source": "./plugins/dealsharp",
+      "description": "Your projects and negotiation work in Claude."
+    },
+    {
+      "name": "dealsharp-dev",
+      "source": "./plugins/dealsharp-dev",
+      "description": "DealSharp development workspace."
+    }
+  ],
+  "metadata": {
+    "description": "DealSharp negotiation workflows for production and development accounts."
+  }
+}
