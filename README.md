@@ -1,3 +1,5 @@
+> **Classification: PUBLIC.** Information that has been approved for release to the general public. Freely shareable both internally and externally. See the DealSharp Data Classification Policy.
+
 # DealSharp plugins for Claude
 
 Separate production and development plugins connect Claude to your DealSharp account through hosted MCP endpoints.
